@@ -1,0 +1,28 @@
+name: Zlaten del Castillo
+favicon: null
+layout_spectrum: 0.09084193641319871
+typography_spectrum: 0.8619377720169723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9482767048757523
+  lightness: 0.027454365277662873
+  saturation: 0.868528519757092
+  rhythmicContrast: 0.3825122534763068
+purpose: []
