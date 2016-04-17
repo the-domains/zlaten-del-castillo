@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Zlaten del Castillo]]></title>
         <description><![CDATA[Zlaten del Castillo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zlaten-del-castillo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 10:59:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 11:06:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zlaten-del-castillo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Showreel</p>]]></description>
-            <link>undefinedceb57a34-94af-4786-a622-ebda43423626/index.html</link>
+            <link>https://thegrid.ai/zlaten-del-castillo/ceb57a34-94af-4786-a622-ebda43423626/index.html</link>
             <guid isPermaLink="false">ceb57a34-94af-4786-a622-ebda43423626</guid>
-            <pubDate>Sun, 17 Apr 2016 10:59:16 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 11:06:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
